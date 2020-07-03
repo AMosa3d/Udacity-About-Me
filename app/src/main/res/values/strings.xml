@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="yellow_star_content_description">Yellow Start</string>
+    <string name="my_name">Abdelrahman Ahmed</string>
+    <string name="bio">This is a long bio text just for scrolling.
+    \n\nI don\'t actually know what is this but I am writing what it is.
+    \n\nThis is a long bio text just for scrolling.
+    \n\nI don\'t actually know what is this but I am writing what it is.
+    \n\nThis is a long bio text just for scrolling.
+    \n\nI don\'t actually know what is this but I am writing what it is.
+    \n\nThis is a long bio text just for scrolling.
+    \n\nI don\'t actually know what is this but I am writing what it is.
+    \n\nThis is a long bio text just for scrolling.
+    \n\nI don\'t actually know what is this but I am writing what it is.
+    \n\nThis is a long bio text just for scrolling.
+    \n\nI don\'t actually know what is this but I am writing what it is.
+    \n\nThis is a long bio text just for scrolling.
+    \n\nI don\'t actually know what is this but I am writing what it is.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
 </resources>
